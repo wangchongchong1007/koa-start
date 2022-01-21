@@ -16,7 +16,7 @@
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
     "koa2-cors": "^2.0.6",
-    "log4js": "^5.1.0",
+    "log4js": "^6.4.0",
     "moment-timezone": "^0.5.26",
     "sequelize": "^5.21.3",
     "tedious": "^6.6.5"
